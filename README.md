@@ -27,3 +27,4 @@ I am a data scientist in the clinical research industry specializing in oncology
 - Writing (hoping to finish a first draft of my novel soon!)
 - Knitting
 - Illustration
+- Teaching (I currently volunteer to help adults get their GEDs and am a private tutor for high schoolers)
