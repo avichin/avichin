@@ -17,11 +17,13 @@ I am a data scientist in the clinical research industry specializing in oncology
 
 ### Fields of interest:
 - Healthcare diagnostics
-- Oncology trial endpoint analysis
+- Clinical trial endpoint analysis
 - Drug development and efficacy
+- Social Justice
+- K-12 Education
 
 ### Ask me about:
-- Anything related to clinical trial data!
+- Anything related to health data!
 
 ### Hobbies and other interests:
 - Writing (hoping to finish a first draft of my novel soon!)
