@@ -1,4 +1,4 @@
-## Hi, I'm Adeline!
+## Hi, I'm Adeline (she/her)!
 
 <!--
 **avichin/avichin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
